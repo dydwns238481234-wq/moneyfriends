@@ -1,0 +1,25 @@
+# OS 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code 설정
+.claude/
+
+# 환경변수/비밀정보
+.env
+.env.local
+*.key
+
+# 로그
+*.log
+
+# 임시 파일
+*.tmp
+*.bak
